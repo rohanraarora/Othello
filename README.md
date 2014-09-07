@@ -1,6 +1,3 @@
-Othello
-=======
-
 #Othello
 [Othello](http://en.wikipedia.org/wiki/Othello_\(video_game\)) is a classic strategy video game based on [Reversi](http://en.wikipedia.org/wiki/Reversi). First released for Atari 2600 in 1980, later published by Acclaim Entertainment in 1988, it is similar to both chess and checkers.
 
